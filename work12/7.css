@@ -1,0 +1,86 @@
+@font-face{
+    font-family: roboto;
+    src: url(Roboto-Medium.ttf);
+}
+.big{
+    border-top: 7px black solid;
+    border-bottom: 7px black solid;
+    border-right: 12px black solid;
+    border-left: 12px black solid;
+    margin: auto;
+    height: 380px;
+    width: 822px;
+    background-color: brown;
+    position: relative;
+}
+.top{
+    width: 820px;
+    height: 40px;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 20px;
+}
+.third{
+    border: solid 1px white;
+    height: 40px;
+    background-color: rgb(212, 106, 87);
+    border-radius: 2px;
+    width: 260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.half{
+    border: solid 1px white;
+    height: 40px;
+    background-color: rgb(212, 106, 87);
+    border-radius: 2px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fourth{
+    border: solid 1px white;
+    height: 40px;
+    background-color: rgb(212, 106, 87);
+    border-radius: 2px;
+    width: 190px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sixth{
+    border: solid 1px white;
+    height: 40px;
+    background-color: rgb(212, 106, 87);
+    border-radius: 2px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.two{
+    border: solid 1px white;
+    height: 40px;
+    background-color: rgb(212, 106, 87);
+    border-radius: 2px;
+    width: 540px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.full{
+    border: solid 1px white;
+    height: 40px;
+    background-color: rgb(212, 106, 87);
+    border-radius: 2px;
+    width: 822px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    color: white;
+    font-family: roboto;
+}

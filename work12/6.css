@@ -1,0 +1,181 @@
+@font-face{
+    font-family: roboto;
+    src: url(Roboto-Medium.ttf);
+}
+.big{
+    margin: auto;
+    height: 360px;
+    width: 822px;
+    background-color: rgb(228, 228, 228);
+    position: relative;
+    z-index: -1;
+}
+.dash1{
+    height: 360px;
+    width: 50px;
+    border-left: dashed black 1px;
+    border-right: dashed black 1px;
+    position: absolute;
+    z-index: -2;
+}
+.dash2{
+    height: 360px;
+    width: 50px;
+    border-left: dashed black 1px;
+    border-right: dashed black 1px;
+    left: 70px;
+    position: absolute;
+    z-index: -2;
+}
+.dash3{
+    height: 360px;
+    width: 50px;
+    border-left: dashed black 1px;
+    border-right: dashed black 1px;
+    left: 140px;
+    position: absolute;
+    z-index: -2;
+}
+.dash4{
+    height: 360px;
+    width: 50px;
+    border-left: dashed black 1px;
+    border-right: dashed black 1px;
+    left: 210px;
+    position: absolute;
+    z-index: -2;
+}
+.dash5{
+    height: 360px;
+    width: 50px;
+    border-left: dashed black 1px;
+    border-right: dashed black 1px;
+    left: 280px;
+    position: absolute;
+    z-index: -2;
+}
+.dash6{
+    height: 360px;
+    width: 50px;
+    border-left: dashed black 1px;
+    border-right: dashed black 1px;
+    left: 350px;
+    position: absolute;
+    z-index: -2;
+}
+.dash7{
+    height: 360px;
+    width: 50px;
+    border-left: dashed black 1px;
+    border-right: dashed black 1px;
+    left: 420px;
+    position: absolute;
+    z-index: -2;
+}
+.dash8{
+    height: 360px;
+    width: 50px;
+    border-left: dashed black 1px;
+    border-right: dashed black 1px;
+    left: 490px;
+    position: absolute;
+    z-index: -2;
+}
+.dash9{
+    height: 360px;
+    width: 50px;
+    border-left: dashed black 1px;
+    border-right: dashed black 1px;
+    left: 560px;
+    position: absolute;
+    z-index: -2;
+}
+.dash10{
+    height: 360px;
+    width: 50px;
+    border-left: dashed black 1px;
+    border-right: dashed black 1px;
+    left: 630px;
+    position: absolute;
+    z-index: -2;
+}
+.dash11{
+    height: 360px;
+    width: 50px;
+    border-left: dashed black 1px;
+    border-right: dashed black 1px;
+    left: 700px;
+    position: absolute;
+    z-index: -2;
+}
+.dash12{
+    height: 360px;
+    width: 50px;
+    border-left: dashed black 1px;
+    border-right: dashed black 1px;
+    left: 770px;
+    position: absolute;
+    z-index: -2;
+}
+.top{
+    width: 820px;
+    height: 40px;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 20px;
+    z-index: 3;
+}
+.third{
+    border: solid 1px gray;
+    height: 40px;
+    background-color: white;
+    border-radius: 7px;
+    width: 260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.half{
+    border: solid 1px gray;
+    height: 40px;
+    background-color: white;
+    border-radius: 7px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fourth{
+    border: solid 1px gray;
+    height: 40px;
+    background-color: white;
+    border-radius: 7px;
+    width: 190px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sixth{
+    border: solid 1px gray;
+    height: 40px;
+    background-color: white;
+    border-radius: 7px;
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.two{
+    border: solid 1px gray;
+    height: 40px;
+    background-color: white;
+    border-radius: 7px;
+    width: 540px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    color: gray;
+    font-family: roboto;
+}

@@ -1,0 +1,36 @@
+.big{
+    margin: auto;
+    width: 870px;
+    height: 550px;
+    align-items: stretch;
+}
+.first{
+    display: flex;
+    justify-content: space-between;
+}
+.others{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.small{
+    border: solid black 5px;
+    height: 110px;
+    width: 80px;
+    border-radius: 5px;
+    background-color: rgb(162, 214, 40);
+}
+.bigg{
+    border: solid black 5px;
+    height: 110px;
+    width: 500px;
+    border-radius: 5px;
+    background-color: rgb(162, 214, 40);
+}
+.midd{
+    border: solid black 5px;
+    height: 110px;
+    width: 160px;
+    border-radius: 5px;
+    background-color: rgb(162, 214, 40);
+}

@@ -1,0 +1,121 @@
+.big{
+    margin: auto;
+    width: 900px;
+    height: 500px;
+    display: flex;
+}
+.three{
+    width: 300px;
+    height: 500px;
+}
+.ffirst{
+    border: solid 5px white;
+    width: 290px;
+    height: 160px;
+    background-color: rgb(168, 50, 168);
+    border-radius: 15px;
+}
+.sfirst{
+    width: 300px;
+    height: 166px;
+    display: flex;
+}
+.fgreen{
+    border: solid 5px white;
+    width: 145px;
+    height: 155px;
+    background-color: rgb(87, 168, 50);
+    border-radius: 15px;
+}
+.fblue{
+    border: solid 5px white;
+    width: 143px;
+    height: 35px;
+    background-color: rgb(58, 133, 231);
+    border-radius: 15px;
+}
+.fred{
+    border: solid 5px white;
+    width: 143px;
+    height: 110px;
+    background-color: rgb(228, 86, 86);
+    border-radius: 15px;
+}
+.tfirst{
+    border: solid 5px white;
+    background-color: rgb(87, 168, 50);
+    width: 290px;
+    height: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.ssecond{
+    width: 300px;
+    height: 300px;
+    display: flex;
+}
+.sgreen{
+    border: solid 5px white;
+    background-color: rgb(87, 168, 50);
+    width: 142px;
+    height: 290px;
+    border-radius: 15px;
+}
+.sblue{
+    border: solid 5px white;
+    background-color: rgb(58, 133, 231);
+    width: 137px;
+    height: 60px;
+    border-radius: 15px;
+}
+.sred{
+    border: solid 5px white;
+    background-color: rgb(228, 86, 86);
+    width: 137px;
+    height: 220px;
+    border-radius: 15px;
+}
+.spurple{
+    border: solid 5px white;
+    background-color: rgb(168, 50, 168);
+    width: 290px;
+    height: 136px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.tgreen{
+    border: solid 5px white;
+    background-color: rgb(87, 168, 50);
+    width: 285px;
+    height: 60px;
+    border-radius: 15px;
+}
+.tblue{
+    border: solid 5px white;
+    background-color: rgb(58, 133, 231);
+    width: 60px;
+    height: 60px;
+    border-radius: 15px;
+}
+.tred{
+    border: solid 5px white;
+    background-color: rgb(228, 86, 86);
+    width: 215px;
+    height: 60px;
+    border-radius: 15px;
+}
+.tpurple{
+    border: solid 5px white;
+    width: 285px;
+    height: 230px;
+    background-color: rgb(168, 50, 168);
+    border-radius: 15px;
+}
+.tbottomblue{
+    border: solid 5px white;
+    width: 285px;
+    height: 55px;
+    background-color: rgb(58, 133, 231);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
